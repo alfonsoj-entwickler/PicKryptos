@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">PicKryptos</string>
+    <string name="app_version">Version 0.0.2</string>
+    <string name="app_resumen">A tool encrypts your photos and hides your messages.</string>
+    <string name="app_company">Moun Defense and Security</string>
+    <string name="app_info">Develop Apps and Big Data</string>
+    <string name="app_developer">Developer: ajtg</string>
+    <string name="app_email">Email: ajtg.developer@gmail.com</string>
+
+    <string name="mainmenu1">Symmetric Encryptions</string>
+    <string name="mainmenu2">Steganography algorithms</string>
+    <string name="mainmenu3">Photos</string>
+    <string name="mainmenu4">Camera</string>
+    <string name="mainmenu5">Voice</string>
+    <string name="mainmenu6">KeyStore</string>
+    <string name="mainmenu7">KeyGenerator</string>
+    <string name="mainmenu8">Gallery</string>
+    <string name="mainmenu9">Watermarking</string>
+    <string name="mainmenu10">About</string>
+
+    <string name="menuOptionCopy">Copy</string>
+    <string name="menuOptionCopyKey">Copy key</string>
+    <string name="menuOptionPaste">Paste</string>
+    <string name="menuOptionClean">Clean</string>
+    <string name="menuOptionSend">Send</string>
+    <string name="menuOptionInformation">Information</string>
+    <string name="menuOptionExample">Load example</string>
+    <string name="menuOptionAbout">About</string>
+    <string name="menuOptionLoadKey">Load a key</string>
+    <string name="menuOptionSave">Save a key</string>
+    <string name="menuOptionLoadPhoto">Load photo</string>
+    <string name="menuOptionLoadFile">Load file</string>
+    <string name="menuOptionEncryption">Encryption</string>
+    <string name="menuOptionSelectKey">Select a key</string>
+    <string name="menuOptionName">Your ID already.</string>
+    <string name="menuOptioDeleteKey">Delete key</string>
+
+    <string name="menuConsole1">Enter your message, please</string>
+    <string name="menuConsole2">Enter your password, please</string>
+    <string name="menuConsole3">Encrypt data</string>
+    <string name="menuConsole4">Decrypt data</string>
+    <string name="menuConsole5">Select your cipher, please</string>
+    <string name="menuConsole6">Enter the information, please</string>
+    <string name="menuConsole7">Enter your Id key, please</string>
+
+    <string name="KeyMessage1">Generating a photo</string>
+    <string name="KeyMessage2">Created a cipher photo</string>
+    <string name="KeyMessage4">Created a decipher photo</string>
+    <string name="KeyMessage3">Photo failed</string>
+    <string name="KeyMessage5">Loaded photos</string>
+    <string name="KeyMessage6">Saved your msg in image</string>
+    <string name="KeyMessage7">Got a msg from image</string>
+    <string name="KeyMessage8">Failed process stego</string>
+
+    <string name="testText1">When in the course of human events it becomes necesary for one people to dissolve the political bands wich have connected them with another</string>
+    <string name="testText2">In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lancerack, an old buckler, a lean hack, and a greyhound for coursing.</string>
+
+    <string-array name="array_keys">
+        <item>Select a cipher</item>
+        <item>DES</item>
+        <item>TripleDES</item>
+        <item>BlowFish</item>
+        <item>RC4</item>
+        <item>AES 128</item>
+        <item>AES 192</item>
+        <item>AES 256</item>
+        <item>RSA 1024</item>
+        <item>RSA 2048</item>
+        <item>RSA 3072</item>
+        <item>RSA 4096</item>
+        <item>EC 256</item>
+    </string-array>
+
+    <string-array name="array_algorithm">
+        <item>Select a cipher</item>
+        <item>DES</item>
+        <item>TripleDES</item>
+        <item>AES</item>
+        <item>BlowFish</item>
+        <item>RC4</item>
+        <item>RSA</item>
+        <item>EC</item>
+    </string-array>
+    <string-array name="array_stego">
+        <item>Select a cipher</item>
+        <item>LSB-replacement</item>
+        <item>LSB-matching</item>
+        <item>Matrix embedding</item>
+        <item>Wet paper codes</item>
+        <item>HUGO</item>
+        <item>WOW</item>
+    </string-array>
+    <string name="title_activity_details">DetailsActivity</string>
+
+</resources>
